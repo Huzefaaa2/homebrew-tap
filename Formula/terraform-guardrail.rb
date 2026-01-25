@@ -4,7 +4,7 @@ class TerraformGuardrail < Formula
   desc "Terraform Guardrail MCP (TerraGuard) governance control plane"
   homepage "https://github.com/Huzefaaa2/terraform-guardrail"
   url "https://files.pythonhosted.org/packages/source/t/terraform-guardrail/terraform_guardrail-1.0.1.tar.gz"
-  sha256 "a9a5e8f7493851b7c503c29dbfcf497eec7c5432a285f5cee359caaaadd19b63"
+  sha256 "12029fa345bc693e129e73fbdc3ee911b62b00bd354e0eb88ea2e46134017a96"
   license "MIT"
 
   depends_on "python@3.11"
