@@ -5,7 +5,7 @@ class TerraformGuardrail < Formula
   homepage "https://github.com/Huzefaaa2/terraform-guardrail"
   url "https://files.pythonhosted.org/packages/source/t/terraform-guardrail/terraform_guardrail-3.0.0.tar.gz"
   sha256 "ab86796525b73a645d163b406df2f0ee008ba10fbced43129df57466ea42f2c9"
-  license "MIT"
+  license "BUSL-1.1"
 
   depends_on "python@3.11"
 
